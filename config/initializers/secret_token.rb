@@ -1,0 +1,1 @@
+Newapp::Application.config.secret_key_base = '4e2be914320d20b4e4d1bf9c26e3dbca9144dbab46a366702816944a2f9acf4b467363d945b6c0760f71106c966899f2444af19406b27f0aa7ec08edad5cf70e'
